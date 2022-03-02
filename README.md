@@ -100,19 +100,19 @@ N分别取3、5、7时的平均脸如图所示。可以发现平均脸的变化�
 <div align=center>N为3时的误差图</div>
     
 <div align=center><img src ="https://s4.ax1x.com/2022/03/02/bGVJjf.png"></div>
-<div align=center><img src ="N为5时的误差图"></div>
+<div align=center>N为5时的误差图</div>
    
 <div align=center><img src ="https://s4.ax1x.com/2022/03/02/bGVtu8.png"></div>
-<div align=center><img src ="N为7时的误差图"></div>
+<div align=center>N为7时的误差图</div>  
     
 可以发现，综合来看，K并不是越大越好，当主成分数目取到10~30时，分类的效果达到最好，当主成分数增加到很多时，效果反而下降。
 ### 4. 实现基于LDA的fisherfaces算法
 LDA的K取了1~20:
 <div align=center><img src ="https://s4.ax1x.com/2022/03/02/bGVNDS.png"></div>
-<div align=center><img src ="N为3时的误差图"></div>
+<div align=center>N为3时的误差图</div>
   
 <div align=center><img src ="https://s4.ax1x.com/2022/03/02/bGVUHg.png"></div>
-<div align=center><img src ="N为5时的误差图"></div>
+<div align=center>N为5时的误差图</div>
     
 <div align=center><img src ="https://s4.ax1x.com/2022/03/02/bGVdEQ.png"></div>
-<div align=center><img src ="N为7时的误差图"></div>
+<div align=center>N为7时的误差图</div>
